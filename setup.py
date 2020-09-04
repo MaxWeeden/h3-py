@@ -24,8 +24,6 @@ setup(
     name = 'h3',
     version = about['__version__'],
     description = about['__description__'],
-    long_description = long_desc(),
-    long_description_content_type = 'text/markdown',
     license = about['__license__'],
     author = about['__author__'],
     author_email = about['__author_email__'],
