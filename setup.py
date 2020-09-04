@@ -1,8 +1,8 @@
 import os
 from setuptools import find_packages
-from setuptools import setup
-# import setuptools
-# from skbuild import setup
+# from setuptools import setup
+import setuptools
+from skbuild import setup
 
 here = os.path.abspath(os.path.dirname(__file__))
 
